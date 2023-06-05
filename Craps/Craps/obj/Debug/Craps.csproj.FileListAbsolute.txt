@@ -1,0 +1,11 @@
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\bin\Debug\Craps.exe.config
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\bin\Debug\Craps.exe
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\bin\Debug\Craps.pdb
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.csproj.AssemblyReference.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.csproj.SuggestedBindingRedirects.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.Properties.Resources.resources
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.csproj.GenerateResource.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.csproj.CoreCompileInputs.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.exe
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.pdb
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\Craps\Craps\obj\Debug\Craps.Craps.resources

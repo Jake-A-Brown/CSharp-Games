@@ -1,0 +1,11 @@
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\loucr\OneDrive\Desktop\ChattTech\ChattTech\Spring 2023\CIST2341\Week16\GuessingGame\GuessingGame\obj\Debug\GuessingGame.GuessingGame.resources
